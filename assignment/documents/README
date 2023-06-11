@@ -1,0 +1,31 @@
+## SYNOPSIS
+
+Final assessment of Introduction to Software Engineering ISAD1000
+
+## CONTENTS
+
+code/
+    
+    strings/
+
+        upper.py - converting a string to uppercase
+        lower.py - converting a string to lowercase
+        numeric.py - checks if numeric values are in a string
+        number.py - checks if string is a valid number
+        convertupper.py - removes numeric values and converts string to uppercase
+        convertlower.py - removes numeric values and converts string to lowercase
+
+    time/
+
+        hourstomins.py - converts hours to minutes
+        minstohours.py - converts minutes to hours
+        minstosecs.py - converts minutes to seconds
+        secstomins.py - converts seconds to minutes
+
+documents/ 
+
+    README - readme file for final assessment
+
+    report/
+
+        freddykhant_20618166_report - final report
